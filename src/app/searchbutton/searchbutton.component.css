@@ -1,0 +1,18 @@
+#sbutton{
+    margin-left:700px;
+    display: inline;
+}
+
+#searchbutton{
+    height:35px;
+    margin-left: 15px;
+    margin-top:200px;
+}
+
+#mic{
+    margin-top:5px;
+    height:45px;
+    width:45px;
+    margin-left:5px;
+}
+
