@@ -5,7 +5,12 @@
 }
 #title{
     margin-left:500px;
+    text-decoration: none;
+    color:inherit;
+}
+#title a:hover{
+    text-decoration: none;
 }
 #loginbutton{
-    margin-left: 480px;
+    margin-left: 420px;
 }
